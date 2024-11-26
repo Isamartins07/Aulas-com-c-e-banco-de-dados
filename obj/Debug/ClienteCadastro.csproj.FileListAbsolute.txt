@@ -1,0 +1,12 @@
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\obj\Debug\ClienteCadastro.csproj.AssemblyReference.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\obj\Debug\ClienteCadastro.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\ClienteCadastro.exe.config
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\ClienteCadastro.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\ClienteCadastro.pdb
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\EntityFramework.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\EntityFramework.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\obj\Debug\ClienteC.5510AB95.Up2Date
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\obj\Debug\ClienteCadastro.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ClienteCadastro\ClienteCadastro\obj\Debug\ClienteCadastro.pdb
